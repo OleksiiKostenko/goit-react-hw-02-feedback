@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OleksiiKostenko/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/OleksiiKostenko/goit-react-hw-02-feedback/static/js/main.ccc924fe.js",
+    "index.html": "/OleksiiKostenko/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/OleksiiKostenko/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.ccc924fe.js.map": "/OleksiiKostenko/goit-react-hw-02-feedback/static/js/main.ccc924fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ccc924fe.js"
+  ]
+}
